@@ -7,3 +7,8 @@ Optical Character Recognition (OCR) is the process of getting type or handwritte
 ## Dataset: 
 * https://www.kaggle.com/c/denoising-dirty-documents/data 
 * We are provided two sets of images, train and test. These images contain various styles of text, to which synthetic noise has been added to simulate real-world, messy artifacts. The training set includes the test without the noise (train_cleaned). You must create an algorithm to clean the images in the test set.
+
+## Sample image is shown below
+
+![alt text](https://github.com/bharathbhimshetty/Denoising-Dirty-Documents/blob/master/denoising%201.JPG?raw=true)
+
